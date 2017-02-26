@@ -3,7 +3,7 @@
 #In this example my sheets have only 3 columns, if it has more or less than 3, change C in 'A%d:C%d' to corresponding alphabet, for example 'A%d:E%d', if 5 columns. 
 
 import requests
-import urllib2, urllib, json, urlfetch'
+import urllib2, urllib, json, urlfetch
 from pprint import pprint
 from bs4 import BeautifulSoup
 
